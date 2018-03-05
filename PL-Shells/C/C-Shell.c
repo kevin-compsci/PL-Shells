@@ -1,5 +1,5 @@
 //Kevin Nguyen
-//Basic Shell for C++ (Cpp).
+//Basic Shell for C (C files).
 
 /*
 How to run (linux):
